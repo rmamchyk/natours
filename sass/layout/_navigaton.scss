@@ -43,7 +43,7 @@
     }
 
     &__list {
-        @include position-center;
+        @include absolute-center;
         list-style: none;
         text-align: center;
         width: 100%;
