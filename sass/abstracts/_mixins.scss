@@ -21,6 +21,8 @@
 [1200 - 1800px] is where our normal styles apply 
 1800px +:         Big desktop
 
+ORDER: Base + Typography > general layout + grid > page layout > components
+
 $breakpoint argument choises:
   - phone
   - tab-port
